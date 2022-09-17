@@ -14,3 +14,12 @@ div {
     color:white;
     display:flex;
 }
+
+.blank:hover {
+    background-color:black;
+}
+
+.blank {
+    border: 1px solid black;
+    background-color: white;
+}
