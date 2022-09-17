@@ -16,3 +16,4 @@ Enough practice with grid and now i am able to create a container with automated
 
 Next assignment is to create a button that allows the user to input the amount of squares they want.
 
+And that is also completed. This was alot of fun!
