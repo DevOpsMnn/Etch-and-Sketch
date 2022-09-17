@@ -1,7 +1,18 @@
 #container {
     border: 1px solid black;
-    width:32em;
-    height: 32em;
+    width:960px;
+    height: 960px;
+    margin: 5em auto;
+    display: grid;
+    grid-template-columns: repeat(16, auto);
+    padding: 0.5em;
+    background-color:black;
+}
+
+#customContainer {
+    border: 1px solid black;
+    width:960px;
+    height: 960px;
     margin: 5em auto;
     display: grid;
     grid-template-columns: repeat(16, auto);
