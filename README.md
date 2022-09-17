@@ -11,4 +11,8 @@ The square divs should have a class for uniform design and an ID to target the i
 
 Stuff to learn before i can do this:
 - CSS Grid
-- 
+
+Enough practice with grid and now i am able to create a container with automated divs to the size of my choosing.
+
+Next assignment is to create a button that allows the user to input the amount of squares they want.
+

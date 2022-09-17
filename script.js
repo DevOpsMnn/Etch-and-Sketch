@@ -13,9 +13,9 @@ for (let i=0; i < amount; i++) {
 
 listenUserAmount.addEventListener('click', () => {
 
-    let choosenAmount = prompt("Hoeveel vierkantjes wil je horizontaal? Graag onder de 100 blijven");
+    let choosenAmount = prompt("How many squares do you want there to be on the horizontal line? Maximum allowed is 100 squares.");
     if (choosenAmount > 100) {
-        alert("Je hebt meer dan 100 ingevult, probeer het opnieuw.");
+        alert("The number of squares is higher then is allowed. Please try again!");
         return;
     } else {
         amount = choosenAmount * choosenAmount;
